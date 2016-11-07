@@ -1,9 +1,9 @@
 # h2pp
-**heritability (h2) partition pipeline**
+##**heritability (h2) partition pipeline**
 
 Pipeline for partitioning the SNP heritability (i.e. proportion of narrow-sense heritability accounted for by commonly segregating variants tagged by GWAS-interrogated SNPs) 
 
-Directories
+###Directories
 
 **GREML** 
 
