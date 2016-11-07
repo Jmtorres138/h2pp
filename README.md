@@ -6,12 +6,14 @@ Pipeline for partitioning the SNP heritability (i.e. proportion of narrow-sense 
 Directories
 
 **GREML** 
+
 This folder will contain pipeline scripts for estimating and partitioning SNP heritabilty from genotype data. 
 This involves:
   * Genetic relatedness matrix (GRM) calculation with **linkage Disequilibrium Adjusted Kinship** estimation software (LDAK)  
   * Restricted maximum likelihood estimation with **Genomic Complex Trait Analysis** software (GCTA)
 
 **LDSR** 
+
 This folder will contain pipeline scripts for running **stratified LD score regression** (Finucane et al. _Nat Genet_. 2015) 
 This requires:
   * Summary statistics from genome wide association studies (GWAS) 
